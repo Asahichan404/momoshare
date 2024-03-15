@@ -20,7 +20,7 @@ const MMSLS = [
  */
 const MMSLS = [
     
-    "https://github.com/Space-FuCheng/momoshare/",
+    "https://www.maimemo.com/share/page?uid=27362435&pid=fe83afc9ed97d32654b1d8ebe561d846&tid=c217315cc2ea7f0c804504a46998a888",
 
 
   ]
